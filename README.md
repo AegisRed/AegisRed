@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:161B22,100:FF2D55&height=190&section=header&text=Vladyslav%20Russu&fontSize=46&fontColor=F0F6FC&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20RAG%20%E2%80%A2%20FastAPI%20%E2%80%A2%20Multimodal&descSize=16&descAlignY=58" width="100%" />
+<img src="./img/ChatGPT%20Image%20May%203%2C%202026%2C%2009_39_20%20PM.png" width="100%" alt="Profile banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=FF2D55&center=true&vCenter=true&width=900&lines=I+build+LLM+systems+that+survive+production.;RAG%2C+streaming%2C+queues%2C+cost+tracking%2C+GPU+deployments.;My+code+has+long-term+memory.+My+GPU+doesn%27t." alt="Typing SVG" />
 
@@ -23,7 +23,7 @@
 
 <br/>
 
-<img align="right" width="190" src="https://media1.tenor.com/m/n6JfJvl-aSwAAAAd/lappland-arknights.gif" alt="Lappland chibi gif" />
+<img align="right" width="190" src="./img/a364360f92cedf34412751286fdd5924.png" alt="Right side character" />
 
 ## Hey, I'm Vladyslav. I make models behave.
 
@@ -172,7 +172,7 @@ $ output --format genius
 > Deploying anyway...
 ```
 
-<img align="left" width="120" src="https://media1.tenor.com/m/KRPziA1DSJoAAAAd/arknights-lappland.gif" alt="Lappland cute gif" />
+<img align="left" width="120" src="./img/441a4dd902acebc8071391f2a69594a3.png" alt="Left side character" />
 
 ```python
 class Engineer:
