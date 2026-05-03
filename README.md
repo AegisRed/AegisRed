@@ -2,6 +2,7 @@
 
 <img src="./img/ChatGPT%20Image%20May%203%2C%202026%2C%2009_39_20%20PM.png" width="100%" alt="Profile banner" />
 
+<br/><br/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=FF2D55&center=true&vCenter=true&width=900&lines=I+build+LLM+systems+that+survive+production.;RAG%2C+streaming%2C+queues%2C+cost+tracking%2C+GPU+deployments.;My+code+has+long-term+memory.+My+GPU+doesn%27t." alt="Typing SVG" />
 
 <br/>
