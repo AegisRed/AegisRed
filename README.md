@@ -24,15 +24,12 @@
 
 <br/>
 
-<img align="right" width="190" src="./img/a364360f92cedf34412751286fdd5924.png" alt="Right side character" />
+
 
 ## Hey, I'm Vladyslav. I make models behave.
+<img align="right" width="190" src="./img/a364360f92cedf34412751286fdd5924.png" alt="Right side character" />
 
-I’m an **AI/ML Engineer** focused on production LLM systems, backend orchestration, RAG pipelines, multimodal services, streaming APIs, and GPU deployment.
-
-I like building things where the model is not just a shiny autocomplete toy, but a real backend component with queues, metrics, fallbacks, memory, cost control, and enough guardrails to not bite the user. Usually.
-
-> “The model hallucinated? No, tesoro. It generated an undocumented feature.”
+I’m an AI/ML Engineer focused on production LLM systems, backend orchestration, RAG pipelines, multimodal services, streaming APIs, and GPU deployment.
 
 <br clear="right"/>
 
@@ -161,31 +158,7 @@ aiogram bots, subscriptions, payments, admin panels, moderation flows, roleplay 
 
 ---
 
-## Small chaos log
-
-```txt
-$ coffee --input human
-$ model --context long
-$ output --format genius
-
-> Warning: sleep_schedule not found
-> Falling back to caffeine
-> Deploying anyway...
-```
-
 <img align="left" width="120" src="./img/441a4dd902acebc8071391f2a69594a3.png" alt="Left side character" />
-
-```python
-class Engineer:
-    def __init__(self):
-        self.stack = ["Python", "FastAPI", "Docker", "PostgreSQL", "Qdrant", "vLLM"]
-        self.mode = "production, but with teeth"
-
-    async def ship(self, idea):
-        while idea.is_chaotic():
-            idea = await self.turn_into_architecture(idea)
-        return "working system, logs included"
-```
 
 <br clear="left"/>
 
