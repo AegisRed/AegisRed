@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/github/followers/AegisRed?style=for-the-badge&logo=github&label=FOLLOWERS&color=ff2d55" />
 </a>
 <a href="https://github.com/AegisRed?tab=repositories">
-  <img src="https://img.shields.io/badge/public_repos-8-ff2d55?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/public_repos-20-ff2d55?style=for-the-badge&logo=github" />
 </a>
 <a href="https://github.com/AegisRed?tab=stars">
   <img src="https://img.shields.io/github/stars/AegisRed?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=STARS&color=ff2d55" />
