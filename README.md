@@ -35,8 +35,6 @@
 
 I’m an AI/ML Engineer building production LLM systems: backend orchestration, RAG and memory pipelines, multimodal services, streaming APIs, and GPU inference.
 
-I care about the parts demos usually hide — failure modes, observability, latency, cost, strict contracts, and what happens when the model confidently does something stupid.
-
 <br clear="right"/>
 
 ---
