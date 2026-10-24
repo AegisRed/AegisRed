@@ -237,10 +237,7 @@ React/TypeScript dashboards, realtime telemetry, admin tools, responsive layouts
 ## Contact
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/vladyslavrussu">
-  <img src="https://img.shields.io/badge/LinkedIn-vladyslavrussu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+  
 <a href="https://github.com/AegisRed">
   <img src="https://img.shields.io/badge/GitHub-AegisRed-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
